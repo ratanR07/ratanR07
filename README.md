@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ratan Biswakarmakar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanr07&label=Profile%20views&color=0e75b6&style=flat" alt="ratanr07" /> </p>
+<img align="left" alt="Coding" width="450" src="https://github.com/ratanR07/ratanR07/assets/157063244/712370d8-d03a-4d2f-8676-93e29524b071">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratanr07" alt="ratanr07" /></a> </p>
 
