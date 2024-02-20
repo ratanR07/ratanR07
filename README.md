@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ratanbisong@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ratanR07](https://github.com/ratanR07)
+
 
 - ⚡ Fun fact **Lazy**
 
