@@ -35,9 +35,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ratanR07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ratanR07" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanr07&show_icons=true&locale=en&layout=compact" alt="ratanr07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratanr07&show_icons=true&locale=en" alt="ratanr07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratanr07&" alt="ratanr07" /></p>
+<img align="right" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><img align="left" alt="Coding" width="450" src="https://github.com/ratanR07/ratanR07/assets/157063244/712370d8-d03a-4d2f-8676-93e29524b071">
